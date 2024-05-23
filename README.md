@@ -5,6 +5,8 @@ Requirements
     requests library
     beautifulsoup4 library
     lxml library
+    os library
+    csv library
 
 You can install the required libraries using pip:
 
